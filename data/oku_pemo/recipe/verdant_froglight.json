@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:shroomlight",
+    "minecraft:magma_cream",
+    "lime_dye"
+  ],
+  "result": {
+    "id": "minecraft:verdant_froglight",
+    "count": 1
+  }
+}

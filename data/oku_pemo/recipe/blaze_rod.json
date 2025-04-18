@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:blaze_powder",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "minecraft:blaze_rod",
+    "count": 1
+  }
+}

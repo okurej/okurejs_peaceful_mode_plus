@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#x#",
+    " # "
+  ],
+  "key": {
+    "#": "minecraft:wind_charge",
+    "x": "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "minecraft:breeze_rod",
+    "count": 1
+  }
+}

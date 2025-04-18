@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:kelp",
+    "egg"
+  ],
+  "result": {
+    "id": "minecraft:slime_ball",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "heads",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#x#",
+    " # "
+  ],
+  "key": {
+    "#": [
+      "minecraft:rotten_flesh"
+    ],
+    "x": [
+      "minecraft:skeleton_skull"
+    ]
+  },
+  "result": {
+    "id": "minecraft:zombie_head",
+    "count": 1
+  }
+}
