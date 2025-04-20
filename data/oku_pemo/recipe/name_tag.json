@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:string",
+    "x": "paper"
+  },
+  "pattern": [
+    "  #",
+    " x ",
+    "x  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:name_tag"
+  }
+}
